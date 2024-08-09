@@ -7,4 +7,3 @@ Repository of random files.
 ## Requirements
 -Python version 6
 -Libraries: pandas
-
